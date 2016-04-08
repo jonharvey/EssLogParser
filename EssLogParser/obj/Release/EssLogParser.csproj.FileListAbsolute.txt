@@ -1,0 +1,9 @@
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Release\EssLogParser.exe.config
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Release\EssLogParser.exe
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Release\EssLogParser.pdb
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.frmMain.resources
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.Properties.Resources.resources
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.csproj.GenerateResource.Cache
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.exe
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\EssLogParser\EssLogParser\obj\Release\EssLogParser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssLogParser", "EssLogParser\EssLogParser.csproj", "{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "EssLogParserInstaller", "EssLogParserInstaller\EssLogParserInstaller.isproj", "{1B6040C7-1112-435C-9629-A15FBD53D7A3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573} = {B29F2239-AC1E-44C4-9B4A-07CD95AD9573}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jonharveymn.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EssLogParser\\EssLogParser.csproj
+		SccProjectName1 = EssLogParser
+		SccLocalPath1 = EssLogParser
+		SccProjectUniqueName2 = EssLogParserInstaller\\EssLogParserInstaller.isproj
+		SccProjectName2 = EssLogParserInstaller
+		SccLocalPath2 = EssLogParserInstaller
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{B29F2239-AC1E-44C4-9B4A-07CD95AD9573}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.Debug|Any CPU.ActiveCfg = DVD-5
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.Debug|Any CPU.Build.0 = DVD-5
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.DVD-5|Any CPU.Build.0 = DVD-5
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.Release|Any CPU.ActiveCfg = SingleImage
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.Release|Any CPU.Build.0 = SingleImage
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{1B6040C7-1112-435C-9629-A15FBD53D7A3}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

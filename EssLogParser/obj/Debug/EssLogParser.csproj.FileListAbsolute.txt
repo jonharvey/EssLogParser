@@ -1,0 +1,8 @@
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Debug\EssLogParser.exe.config
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Debug\EssLogParser.exe
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\bin\Debug\EssLogParser.pdb
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Debug\EssLogParser.frmMain.resources
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Debug\EssLogParser.Properties.Resources.resources
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Debug\EssLogParser.csproj.GenerateResource.Cache
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Debug\EssLogParser.exe
+C:\Users\Jon\documents\visual studio 2013\Projects\EssLogParser\EssLogParser\obj\Debug\EssLogParser.pdb
